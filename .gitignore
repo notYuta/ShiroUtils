@@ -1,0 +1,69 @@
+# Visual Studio
+.vs/
+*.sln.opt
+*.suo
+*.user
+*.pdb
+*.obj
+*.o
+*.lo
+*.la
+*.dll
+*.exe
+*.ilk
+*.lib
+*.ncb
+*.aps
+*.bak
+*.pch
+*.ipch
+*.log
+*.resources
+*.sdf
+*.tmp
+*.vspscc
+*.vssscc
+*.build-info
+*.cache
+*.db
+*.dscl
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+*.bin
+*.out
+*.pak
+*.profile
+*.nupkg
+*.zip
+*.vsix
+_out/
+
+# NuGet
+*.nuget.g.props
+*.nuget.g.targets
+project.assets.json
+packages/
+
+# Rider
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Dalamud Plugin specific
+*.bak
+*.zip
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+.vscode/
+
+# Logs
+logs/
+*.log
