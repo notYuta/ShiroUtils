@@ -16,7 +16,7 @@ Currently, ShiroUtils includes the following functionalities:
     *   Open your Dalamud settings (usually by typing `/xlsettings` in-game and navigating to "Experimental" or "Plugin Installer" settings).
     *   Go to the "Custom Plugin Repositories" section.
     *   Add the following URL as a new custom repository:
-        `https://raw.githubusercontent.com/notYuta/ShiroUtils/main/ShiroUtils/repo.json`
+        `https://raw.githubusercontent.com/notYuta/ShiroUtils/main/repo.json`
 2.  **Install the Plugin:**
     *   Open the Dalamud Plugin Installer (usually `/xlplugins`).
     *   Search for "ShiroUtils".
