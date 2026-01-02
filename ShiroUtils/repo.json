@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "shiro",
+    "Name": "ShiroUtils",
+    "InternalName": "ShiroUtils",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Integrated plugin suite for FFXIV (Mob Hunt Overlay, Gather Map Overlay, Quick Try On)",
+    "Punchline": "Utility suite for FFXIV",
+    "RepoUrl": "",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://example.com/ShiroUtils/ShiroUtils.zip",
+    "DownloadLinkUpdate": "https://example.com/ShiroUtils/ShiroUtils.zip",
+    "DownloadLinkTesting": "https://example.com/ShiroUtils/ShiroUtils.zip",
+    "IconUrl": "",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "Tags": [
+      "utility",
+      "map",
+      "gathering",
+      "mobhunt",
+      "tryon"
+    ],
+    "CategoryTags": [
+      "other"
+    ]
+  }
+]

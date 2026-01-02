@@ -1,0 +1,9 @@
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\bin\Debug\Data\MobLocations.json
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\bin\Debug\ShiroUtils.deps.json
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\bin\Debug\ShiroUtils.dll
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\obj\Debug\ShiroUtils.csproj.AssemblyReference.cache
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\obj\Debug\ShiroUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\obj\Debug\ShiroUtils.AssemblyInfoInputs.cache
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\obj\Debug\ShiroUtils.AssemblyInfo.cs
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\obj\Debug\ShiroUtils.csproj.CoreCompileInputs.cache
+C:\Users\shiro\Documents\Project\FF14\ShiroUtils\ShiroUtils\obj\Debug\ShiroUtils.dll

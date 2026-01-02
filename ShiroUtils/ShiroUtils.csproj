@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/14.0.1">
+  <PropertyGroup>
+    <Authors>shiro</Authors>
+    <Version>1.0.0.0</Version>
+    <Description>Integrated plugin suite for FFXIV (ShiroUtils)</Description>
+    <DalamudPluginName>ShiroUtils</DalamudPluginName>
+    <DalamudPluginAuthor>shiro</DalamudPluginAuthor>
+    <DalamudPluginDescription>Integrated plugin suite for FFXIV (ShiroUtils)</DalamudPluginDescription>
+    <DalamudPluginPunchline>Utility suite for FFXIV</DalamudPluginPunchline>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Data\MobLocations.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

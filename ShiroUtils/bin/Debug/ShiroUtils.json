@@ -1,0 +1,15 @@
+{
+  "Author": "shiro",
+  "Name": "ShiroUtils",
+  "InternalName": "ShiroUtils",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Integrated plugin suite for FFXIV (ShiroUtils)",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Utility suite for FFXIV",
+  "AcceptsFeedback": true
+}

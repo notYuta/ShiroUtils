@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eweT9ypqpv8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiro\\Documents\\Project\\FF14\\ShiroUtils\\ShiroUtils\\ShiroUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiro\\.nuget\\packages\\dalamudpackager\\14.0.1\\dalamudpackager.14.0.1.nupkg.sha512",
+    "C:\\Users\\shiro\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.2.39\\dotnet.reproduciblebuilds.1.2.39.nupkg.sha512"
+  ],
+  "logs": []
+}
